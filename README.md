@@ -1,5 +1,5 @@
 # Heart feedback app
-<img width="227" alt="צילום מסך 2024-08-21 ב-19 42 59" src="https://github.com/user-attachments/assets/b50ac3b4-f3e4-46df-85b3-21000e0e9ab3">
+<img width="199" alt="צילום מסך 2024-08-21 ב-20 10 34" src="https://github.com/user-attachments/assets/571cea8c-1e2f-4ccb-bd95-5ccfeb288c34">
 
 ## Project Overview
 This project was developed as part of my practical experience in the Amir Amedi Brain Lab during the second year of my Computer Science and Cognition degree.
